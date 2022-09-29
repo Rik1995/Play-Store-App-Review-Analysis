@@ -1,2 +1,1 @@
-# random
-analyzing the random data
+Exploratory Data Analysis (EDA) on Play Store app and User reviews.
